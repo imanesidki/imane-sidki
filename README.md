@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on  : 42-Cursus-Projects <br>🌱 I’m currently learning  :  AI  --  Machine-Learning <br>💬 Ask me about My name :)<br>⚡ Fun fact : My life :)
 
-
+![isidki's 42 stats](https://badge.mediaplus.ma/darkgray/isidki)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
 
