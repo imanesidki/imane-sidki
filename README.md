@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  : 42-Cursus-Projects <br>🌱 I’m currently learning  :  AI -- big data<br>💬 Ask me about My name :)<br>💯Favorite programming language : Python<br>
+🔭 I’m currently working on  : 42-Cursus-Projects and ENSA Khouribga projects<br>🌱 I’m currently learning  :  AI -- big data<br>💯Favorite programming language : Python<br>
 
 ![isidki's 42 stats](https://badge.mediaplus.ma/darkgray/isidki)
 ## 🌐 Socials:
