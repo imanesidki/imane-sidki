@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on  : 42-Cursus and ENSAK Projects<br>🌱 I’m currently learning  :  AI -- Data Science<br>💯Favorite programming language : Python<br>
+👩‍💻 I'm a student at: National School of Applied Sciences<br>                    & 1337 coding school<br>
+🔭 I’m currently working on: Fraud Detection in Finance App & OCRisation of Invoices<br>🌱 I’m currently learning:  AI -- Data Science<br>💯Favorite programming language : Python<br>
 
 ![isidki's 42 stats](https://badge.mediaplus.ma/darkgray/isidki)
 ## 🌐 Socials:
