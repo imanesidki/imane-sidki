@@ -1,6 +1,8 @@
 # 💫 About Me:
-👩‍💻 I'm a student at: National School of Applied Sciences<br>                    & 1337 coding school<br>
-🔭 I’m currently working in my internship on: Anomaly Detection in Finance App & OCRisation of Invoices<br>🌱 I’m currently learning:  AI -- Data Science<br>💯Favorite programming language : Python<br>
+👩‍💻 I'm a graduate Data Engineer from ENSA [National School of Applied Sciences]<br>
+🌱 I'm a student @ 1337 coding school | 42 Network | UM6P<br>
+🔭 I’m currently working on a: Gaming web app using NextJs, Django & PostgreSql<br>
+💯Favorite programming language : Python<br>
 
 ![isidki's 42 stats](https://badge.mediaplus.ma/darkgray/isidki)
 ## 🌐 Socials:
