@@ -5,16 +5,14 @@
 </div>
 
 ## 💫 About Me
-👩🏻‍🎓 I'm a graduate Software & Data Engineer from ENSA [National School of Applied Sciences]<br>
-👩🏻‍💻 I'm a member @ 1337 coding school | 42 Network | UM6P<br>
+👩🏻‍🎓 I'm a Software & Data Engineer<br>
 💯 Favorite programming language : Python<br>
  <br>
 🔭 Check out my portfolio [imane.dev](https://imane.dev)
 <br>
 ## 🌐 Socials
 📫 How to reach me: [sidki.imane10@gmail.com](mailto:sidki.imane10@gmail.com)
-<br>🔗 Let's connect !!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
+<br>🔗 Let's connect  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
 ## 💻 Tech Stack
 <div align="center">
   <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
