@@ -8,8 +8,6 @@
 👩🏻‍🎓 I'm a Software & Data Engineer<br>
 💯 Favorite programming language : Python<br>
  <br>
-🔭 Check out my portfolio [imane.dev](https://imane.dev)
-<br>
 ## 🌐 Socials
 📫 How to reach me: [sidki.imane10@gmail.com](mailto:sidki.imane10@gmail.com)
 <br>🔗 Let's connect  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
@@ -42,8 +40,6 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="width: 50px;">
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" style="width: 50px;">
   </p>
