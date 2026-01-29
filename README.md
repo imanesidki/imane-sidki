@@ -44,13 +44,9 @@
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" style="width: 50px;">
   </p>
 </div>
-
-## 📊 GitHub Stats
-
-[![Imane Sidki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanesidki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<br>
-![](https://komarev.com/ghpvc/?username=imanesidki&style=flat&color=ff69b4&base=1500)
-
 Feel free to explore, contribute, or drop me a message! Excited about the possibilities that lie ahead and looking forward to connecting with fellow developers and data enthusiasts.<br><br>
+
+![](https://komarev.com/ghpvc/?username=imanesidki&style=flat&color=ff69b4&base=1500)
+<br>
 Happy coding! 🚀
