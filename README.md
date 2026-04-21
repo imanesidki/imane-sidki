@@ -10,42 +10,12 @@
  <br>
 ## 🌐 Socials
 📫 How to reach me: [sidki.imane10@gmail.com](mailto:sidki.imane10@gmail.com)
-<br>🔗 Let's connect  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
-## 💻 Tech Stack
-<div align="center">
-  <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=c" title="C" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=ts" title="Typescript" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=python" title="Python" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=java" title="Java" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=react" title="React" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=flask" title="Flask" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=redis" title="Redis" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=aws" title="AWS" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=gcp" title="GCP" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=git" title="Git" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="width: 50px;">
-    <img src="https://skillicons.dev/icons?i=figma" title="Figma" style="width: 50px;">
-  </p>
-</div>
+<br>🔗 Let's connect 
+<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
 <br>
-Feel free to explore, contribute, or drop me a message! Excited about the possibilities that lie ahead and looking forward to connecting with fellow developers and data enthusiasts.<br><br>
+<br>
+Feel free to explore, contribute, or drop me a message! 
+<br> Excited about the possibilities that lie ahead and looking forward to connecting with fellow developers and data enthusiasts.<br><br>
 
 ![](https://komarev.com/ghpvc/?username=imanesidki&style=flat&color=ff69b4&base=1500)
 <br>
